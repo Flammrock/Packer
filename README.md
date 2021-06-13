@@ -1,6 +1,7 @@
 # Packer
 
 > Auteur : Flammrock
+> 
 > License  MIT
 
 ### Prérequis
@@ -29,7 +30,8 @@ L'aide peut s'obtenir en indiquant aucun argument ou en spécifiant `--help` com
 - `Packer --help`
 
 Voici l'aide produite :
-```        Packer unpack {OPTIONS}
+```
+        Packer unpack {OPTIONS}
 
                 -i, --input=VALUE        Le fichier pack (nsb, scb, trb, ...).
                 -o, --output=VALUE       Le fichier de sortie (sous format JSON).
@@ -83,7 +85,8 @@ Voici l'aide produite :
                 -i, --input=VALUE        Le fichier au format gzip (pack).
                 -o, --output=VALUE       Le fichier de sortie unpack.
                 -s, --stdout             Affichage sur la console.
-                -s, --verbose            Afficher toutes les informations.```
+                -s, --verbose            Afficher toutes les informations.
+```
 
 ### License
 
